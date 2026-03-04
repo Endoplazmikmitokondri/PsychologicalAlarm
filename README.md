@@ -57,4 +57,4 @@ This app was built using **.NET 9 MAUI** but relies heavily on Native Android im
 ### 💻 For Developers (Build from Source)
 1. Clone the repository: 
    ```bash
-   git clone [https://github.com/yourusername/PsychologicalAlarm.git](https://github.com/yourusername/PsychologicalAlarm.git)
+   git clone [https://github.com/Endoplazmikmitokondri/PsychologicalAlarm.git](https://github.com/Endoplazmikmitokondri/PsychologicalAlarm.git)
