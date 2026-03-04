@@ -9,12 +9,12 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="PsychologicalAlarm/docs/1.jpg" width="30%" />
-  <img src="PsychologicalAlarm/docs/2.jpg" width="30%" />
-  <img src="PsychologicalAlarm/docs/3.jpg" width="30%" />
-  <img src="PsychologicalAlarm/docs/4.jpg" width="30%" />
-  <img src="PsychologicalAlarm/docs/5.jpg" width="30%" />
-  <img src="PsychologicalAlarm/docs/6.jpg" width="30%" />
+  <img src="PsychologicalAlarm/docs/1.jpeg" width="30%" />
+  <img src="PsychologicalAlarm/docs/2.jpeg" width="30%" />
+  <img src="PsychologicalAlarm/docs/3.jpeg" width="30%" />
+  <img src="PsychologicalAlarm/docs/4.jpeg" width="30%" />
+  <img src="PsychologicalAlarm/docs/5.jpeg" width="30%" />
+  <img src="PsychologicalAlarm/docs/6.jpeg" width="30%" />
 </p>
 
 ## 🤔 The "Philosophy"
